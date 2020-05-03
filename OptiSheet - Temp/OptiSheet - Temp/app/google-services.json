@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456359218703",
+    "firebase_url": "https://optisheet.firebaseio.com",
+    "project_id": "optisheet",
+    "storage_bucket": "optisheet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456359218703:android:8204663706d440cbaf9d7a",
+        "android_client_info": {
+          "package_name": "ie.wit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456359218703-slqdcvasemqo4orcdnh0c33od39kv4c3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.wit",
+            "certificate_hash": "8251295e4a0dcfa68ca08fbd5f15f048248e0179"
+          }
+        },
+        {
+          "client_id": "456359218703-1t21kdbhm5sfv1sf4mp3qqiho43flscm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA35TieNEjAaZmQtcNWVEXFjgp_CcqskU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456359218703-j348fj6kk9fvlvu083gj3t742dvh5pfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
