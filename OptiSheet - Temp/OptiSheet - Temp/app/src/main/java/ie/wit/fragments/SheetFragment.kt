@@ -73,7 +73,7 @@ class SheetFragment : Fragment(), AnkoLogger {
             val amount = if (layout.paymentAmount.text.isNotEmpty())
                 layout.paymentAmount.text.toString().toInt() else layout.amountPicker.value
             if(totalDonated >= layout.progressBar.max)
-                activity?.toast("Donate Amount Exceeded!")
+                activity?.toast("Level Exceeded!")
             else {
                 val paymentmethod = if(layout.paymentMethod.checkedRadioButtonId == R.id.Barbarian) "Barbarian"
                 else if(layout.paymentMethod.checkedRadioButtonId == R.id.Bard) "Bard"
