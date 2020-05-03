@@ -17,13 +17,13 @@
     <string name="sorcerer">Sorcerer</string>
     <string name="warlock">Warlock</string>
     <string name="wizard">Wizard</string>
-    <string name="amount">Amount</string>
+    <string name="amount">Level</string>
     <string name="total">Total so Far</string>
     <string name="totalSoFar">$ Total</string>
     <string name="reportTitle">Donations Report</string>
     <string name="defaultAmount">00</string>
     <string name="defaultMethod">N/A</string>
-    <string name="enter_amount">Enter Amount</string>
+    <string name="enter_amount">Enter Level</string>
 
     <string name="title_activity_home">Home</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
@@ -40,10 +40,10 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
 
-    <string name="aboutus_title">Homer for President !!</string>
-    <string name="aboutus_message">Hi, I\'m Homer\n\nPlease vote for me.\n\n Please Please Please Please!!</string>
+    <string name="aboutus_title">Abouts Us</string>
+    <string name="aboutus_message">Empty text</string>
 
-    <string name="messageLoading">Please wait while we Connect to the Server...</string>
+    <string name="messageLoading">Connecting to the Server...</string>
 
     <string name="action_edit">Edit Charactersheet</string>
     <string name="action_update">Update</string>
