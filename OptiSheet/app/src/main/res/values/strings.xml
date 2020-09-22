@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OptiSheet</string>
+    <string name="action_settings">Settings</string>
+    <string name="roll">string</string>
+    <string name="Roll">Roll</string>
+    <string name="roll_d20">Roll D20</string>
+</resources>
